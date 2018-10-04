@@ -122,5 +122,3 @@ dependencies:
     - tabulate==0.8.2
     - torch==0.4.1.post2
     - tqdm==4.26.0
-prefix: /home/marian/anaconda3/envs/avp
-
