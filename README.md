@@ -13,6 +13,7 @@ The simplest way is to use `conda` to install the dependencies:
 
     conda env create -f environment.yml -n avp
     source activate avp
+    pip install git+https://github.com/dnouri/skorch
     jupyter-notebook skorch-resnet50.ipynb
 
 After that you should be able to navigate to the notebook URL.
